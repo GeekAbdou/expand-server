@@ -1,0 +1,25 @@
+{
+  "name": "expand-server",
+  "version": "1.0.0",
+  "description": "Products Fake API for SOTRE",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GeekAbdou/expand-server.git"
+  },
+  "keywords": [
+    "json-server",
+    "javascript",
+    "API"
+  ],
+  "author": "Sofidev, contact@itssofi.dev",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.4"
+  }
+}
