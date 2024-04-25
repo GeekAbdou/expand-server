@@ -4,25 +4,25 @@
       "id": 1,
       "title": "FDM 3D Printers",
       "prefix": "fdm",
-      "img": ""
+      "img": "https://printfy3d.com/wp-content/uploads/2024/04/1-130x130.png"
     },
     {
       "id": 2,
       "title": "Resin 3D Printers",
       "prefix": "resin",
-      "img": ""
+      "img": "https://printfy3d.com/wp-content/uploads/2024/04/3-130x130.png"
     },
     {
       "id": 3,
       "title": "Wash and Cure Machines",
       "prefix": "wash",
-      "img": ""
+      "img": "https://printfy3d.com/wp-content/uploads/2024/04/4-130x130.png"
     },
     {
       "id": 4,
       "title": "Materials",
       "prefix": "wash",
-      "img": ""
+      "img": "https://printfy3d.com/wp-content/uploads/2024/04/2-130x130.png"
     }
   ],
   "brands": [
