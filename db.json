@@ -602,11 +602,11 @@
   ],
   "bestseller": [
     {
-      "productId": 88178,
+      "productId": 375,
       "id": 1
     },
     {
-      "productId": 88178,
+      "productId": 391,
       "id": 3
     },
     {
@@ -620,8 +620,9 @@
       "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/1_3_f2fcb00b-66b6-4976-bb3d-d7d8d312580f.webp",
       "title": "Creality CR-6 SE",
       "subtitle": "3D Printer",
+      "oldPrice": 599.99,
       "price": 499.99,
-      "productId": 88178
+      "link": "#"
     },
     {
       "id": 2,
@@ -629,7 +630,8 @@
       "title": "Creality CR-6 SE",
       "subtitle": "3D Printer",
       "price": 499.99,
-      "productId": 88178
+      "link": "#",
+      "oldPrice": 599.99
     },
     {
       "id": 3,
@@ -637,7 +639,42 @@
       "title": "Creality CR-6 SE",
       "subtitle": "3D Printer",
       "price": 499.99,
-      "productId": 88178
+      "link": "#",
+      "oldPrice": 599.99
+    }
+  ],
+  "productCatalog": [
+    {
+      "id": 1,
+      "productId": 417
+    },
+    {
+      "id": 2,
+      "productId": 88175
+    },
+    {
+      "id": 3,
+      "productId": 88195
+    },
+    {
+      "id": 4,
+      "productId": 88137
+    },
+    {
+      "id": 5,
+      "productId": 88196
+    },
+    {
+      "id": 6,
+      "productId": 88141
+    },
+    {
+      "id": 7,
+      "productId": 88208
+    },
+    {
+      "id": 8,
+      "productId": 88139
     }
   ]
 }
