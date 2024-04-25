@@ -8,12 +8,20 @@ const middlewares = jsonServer.defaults();
 server.use(middlewares);
 
 // Asynchronously read the contents of db.json
-fs.readFile("../db.json", "utf8", (err, data) => {
+fs.readFile("db.json", "utf8", (err, data) => {
   if (err) {
     console.error("Error reading db.json:", err);
     return;
   }
   const db = JSON.parse(data);
+
+  // Add URL rewriting middleware
+  server.use(
+    jsonServer.rewriter({
+      "/api/*": "/$1",
+      "/products/:resource/:id/show": "/:resource/:id",
+    })
+  );
 
   // Set up the router with the parsed JSON data
   const router = jsonServer.router(db);
