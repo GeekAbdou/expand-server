@@ -2,201 +2,596 @@
   "categories": [
     {
       "id": 1,
-      "title": "men",
-      "prefix": "men",
-      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/cfb357649428__hp-w12-22032022-h_m-men.jpg"
+      "title": "FDM 3D Printers",
+      "prefix": "fdm",
+      "img": ""
     },
     {
       "id": 2,
-      "title": "women",
-      "prefix": "women",
-      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/30d354267a09b__hp-w12-22032022-h_m-women_dresses.jpg"
+      "title": "Resin 3D Printers",
+      "prefix": "resin",
+      "img": ""
     },
     {
       "id": 3,
-      "title": "kids",
-      "prefix": "kids",
-      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/37d243d334c63__hp-w12-22032022-h_m-kids1.jpg"
+      "title": "Wash and Cure Machines",
+      "prefix": "wash",
+      "img": ""
     },
     {
       "id": 4,
-      "title": "baby",
-      "prefix": "baby",
-      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/28948d47ae6e8__h_m-w39-28092022-4066c-1x1.jpg"
+      "title": "Materials",
+      "prefix": "wash",
+      "img": ""
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "title": "Creality",
+      "prefix": "creality",
+      "img": ""
     },
     {
-      "id": 5,
-      "title": "sport",
-      "prefix": "sport",
-      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/1dda9ae79a671__h_m-w40-06102022-7416b-1x1.jpg"
+      "id": 2,
+      "title": "AnyCubic",
+      "prefix": "anycubic",
+      "img": ""
     }
   ],
   "products": [
     {
-      "id": 1,
-      "title": "Jersey top",
-      "price": "249.00",
-      "cat_prefix": "men",
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "max": 4
+      "id": 417,
+      "title": "LD-006",
+      "price": 40000,
+      "oldPrice": 36000,
+      "productLink": "https://crealityegypt.com/products/ld-006-417",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703097095_ezgif-1-9968ef65a6-350x350.jpg",
+      "max": 10,
+      "cat_prefix": "resin",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
     },
     {
-      "id": 2,
-      "title": "Regular Fit Jersey top",
-      "price": "229.00",
-      "cat_prefix": "men",
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "max": 4
+      "id": 416,
+      "title": "HALOT-SKY",
+      "price": 40000,
+      "oldPrice": 36000,
+      "productLink": "https://crealityegypt.com/products/halot-sky-416",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703096440_ezgif-1-8380c100a2-350x350.jpg",
+      "max": 15,
+      "cat_prefix": "resin",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
     },
     {
-      "id": 2,
-      "title": "Regular Fit Jersey top",
-      "price": "229.00",
-      "cat_prefix": "men",
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "max": 4
+      "id": 415,
+      "title": "HALOT-RAY",
+      "price": 41000,
+      "oldPrice": 36900,
+      "productLink": "https://crealityegypt.com/products/halot-ray-415",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703095614_ezgif-4-3e9bccfaaf-350x350.jpg",
+      "max": 5,
+      "cat_prefix": "resin",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
     },
     {
-      "id": 2,
-      "title": "Regular Fit Jersey top",
-      "price": "229.00",
-      "cat_prefix": "men",
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "max": 4
+      "id": 414,
+      "title": "HALOT-LITE",
+      "price": 36000,
+      "oldPrice": 32400,
+      "productLink": "https://crealityegypt.com/products/halot-lite-414",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703094928_ezgif-4-1f6161fe4f-350x350.jpg",
+      "max": 8,
+      "cat_prefix": "resin",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
     },
     {
-      "id": 2,
-      "title": "Regular Fit Jersey top",
-      "price": "229.00",
-      "cat_prefix": "men",
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "max": 4
+      "id": 413,
+      "title": "HALOT-ONE Pro",
+      "price": 32000,
+      "oldPrice": 28800,
+      "productLink": "https://crealityegypt.com/products/halot-one-pro-413",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703093922_ezgif-4-7de89f5c47-350x350.jpg",
+      "max": 12,
+      "cat_prefix": "resin",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
     },
     {
-      "id": 2,
-      "title": "Regular Fit Jersey top",
-      "price": "229.00",
-      "cat_prefix": "men",
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "max": 4
+      "id": 412,
+      "title": "HALOT-ONE Plus",
+      "price": 39000,
+      "oldPrice": 35100,
+      "productLink": "https://crealityegypt.com/products/halot-one-plus-412",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703072137_ezgif-4-236c9fafe2-350x350.jpg",
+      "max": 3,
+      "cat_prefix": "resin",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
     },
     {
-      "id": 2,
-      "title": "Regular Fit Jersey top",
-      "price": "229.00",
-      "cat_prefix": "men",
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "max": 4
+      "id": 411,
+      "title": "HALOT-MAGE",
+      "price": 45000,
+      "oldPrice": 40500,
+      "productLink": "https://crealityegypt.com/products/halot-mage-411",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703071519_ezgif-4-b627b62c61-350x350.jpg",
+      "max": 18,
+      "cat_prefix": "resin",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
     },
     {
-      "id": 2,
-      "title": "Regular Fit Jersey top",
-      "price": "229.00",
-      "cat_prefix": "men",
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "max": 4
+      "id": 410,
+      "title": "HALOT-MAGE Pro",
+      "price": 55000,
+      "oldPrice": 49500,
+      "productLink": "https://crealityegypt.com/products/halot-mage-pro-410",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703023140_ezgif-3-3ba9b0ade3-350x350.jpg",
+      "max": 6,
+      "cat_prefix": "resin",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
     },
     {
-      "id": 2,
-      "title": "Regular Fit Jersey top",
-      "price": "229.00",
-      "cat_prefix": "men",
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "max": 4
+      "id": 391,
+      "title": "CR-10 Smart 3D Printer",
+      "price": 37019,
+      "oldPrice": 33317.1,
+      "productLink": "https://crealityegypt.com/products/cr-10-smart-3d-printer-391",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1623883995_CR-10Smart3DPrinter_dcf0f400-1014-4033-9e29-84655a97f47d_1024x1024-350x350.png",
+      "max": 10,
+      "cat_prefix": "fdm",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
     },
     {
-      "id": 2,
-      "title": "Regular Fit Jersey top",
-      "price": "229.00",
-      "cat_prefix": "men",
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "max": 4
+      "id": 389,
+      "title": "UW-01 Washing/Curing Machine",
+      "price": 15000,
+      "oldPrice": 13500,
+      "productLink": "https://crealityegypt.com/products/uw-01-washing-curing-machine-389",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1622625513_UW-01WashingCuringMachine_2_1024x1024-350x350.jpg",
+      "max": 15,
+      "cat_prefix": "wash",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
     },
     {
-      "id": 2,
-      "title": "Regular Fit Jersey top",
-      "price": "229.00",
-      "cat_prefix": "men",
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "max": 4
+      "id": 388,
+      "title": "500ML (.5KG) 3D Printer Resin UV Resin For LCD 3D Printing",
+      "price": 899,
+      "oldPrice": 1100,
+      "productLink": "https://crealityegypt.com/products/500ml-5kg-3d-printer-resin-uv-resin-for-lcd-3d-printing-388",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1622624575_UVResin-3_1024x1024-350x350.jpg",
+      "max": 5,
+      "cat_prefix": "material",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
     },
     {
-      "id": 2,
-      "title": "Regular Fit Jersey top",
-      "price": "229.00",
-      "cat_prefix": "men",
-      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
-      "max": 4
+      "id": 387,
+      "title": "1KG 3D Printer Resin UV Resin For LCD 3D Printing",
+      "price": 2000,
+      "oldPrice": 1800,
+      "productLink": "https://crealityegypt.com/products/1kg-3d-printer-resin-uv-resin-for-lcd-3d-printing-387",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1622624575_UVResin-3_1024x1024-350x350.jpg",
+      "max": 8,
+      "cat_prefix": "material",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
     },
     {
-      "id": 3,
-      "title": "Cotton polo shirt",
-      "price": "200.00",
-      "cat_prefix": "men",
-      "img": "https://eg.hm.com/assets/styles/HNM/13994073/eeb1d90c4764366000eb8b8571396e81f0de5c44/2/image-thumb__3142108__product_listing/4d6db9e8f936d3d82b13bc5861b0310fa214c74d.jpg",
-      "max": 3
+      "id": 385,
+      "title": "LD-002H 3D Printer (WOW DEAL!)",
+      "price": 24500,
+      "oldPrice": 22050,
+      "productLink": "https://crealityegypt.com/products/ld-002h-3d-printer-wow-deal--385",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1624112196_200326579_797851390920887_6273961351294706137_n-350x350.jpg",
+      "max": 10,
+      "cat_prefix": "resin",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
     },
     {
-      "id": 4,
-      "title": "Cotton t-shirt",
-      "price": "100.00",
-      "cat_prefix": "women",
-      "img": "https://eg.hm.com/assets/styles/HNM/13650519/6cc34f51caee1d6cfe776b933d667075fa30d90d/2/image-thumb__2888777__product_listing/16c27492b022ac2eef03853f85d5b279a29ebeed.jpg",
-      "max": 2
+      "id": 381,
+      "title": "CR-10 V3 E3D Direct Drive Extruder 3D Printer",
+      "price": 18000,
+      "oldPrice": 31000,
+      "productLink": "https://crealityegypt.com/products/cr-10-v3-e3d-direct-drive-extruder-3d-printer-381",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1622622160_cr-10-v2_1024x1024-350x350.jpg",
+      "max": 3,
+      "cat_prefix": "fdm",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
     },
     {
-      "id": 5,
-      "title": "Sweatshirt shorts",
-      "price": "300.00",
-      "cat_prefix": "women",
-      "img": "https://eg.hm.com/assets/styles/HNM/12652575/3e316aab8ce1b596545d144d0efd362975b3856f/2/image-thumb__1998684__product_listing/48756e509aa05341e4a618ba4c1b0a5ce24ebcae.jpg",
-      "max": 3
+      "id": 380,
+      "title": "Creality CR-10 V2 3D Printer",
+      "price": 28000,
+      "oldPrice": 30000,
+      "productLink": "https://crealityegypt.com/products/creality-cr-10-v2-3d-printer-380",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1622621802_CrealityCR-10V23DPrinter_1024x1024-350x350.jpg",
+      "max": 6,
+      "cat_prefix": "fdm",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
     },
     {
-      "id": 6,
-      "title": "Velour top",
-      "price": "300.00",
-      "cat_prefix": "kids",
-      "img": "https://eg.hm.com/assets/styles/HNM/14478215/543d925539f4a3b92a79df2dfe46d5d481e1c7ae/2/image-thumb__3463278__product_listing/c1417d02c7a93e6d2aca7965003b4f7d490f0ae8.jpg",
-      "max": 2
+      "id": 379,
+      "title": "Ender-6 Corexy",
+      "price": 28000,
+      "oldPrice": 25200,
+      "productLink": "https://crealityegypt.com/products/ender-6-corexy-379",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1622621414_Ender61_1024x1024-350x350.jpg",
+      "max": 12,
+      "cat_prefix": "fdm",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
     },
     {
-      "id": 9,
-      "title": "Pile all-in-one suit with ears",
-      "price": "500.00",
-      "cat_prefix": "baby",
-      "img": "https://eg.hm.com/assets/styles/HNM/10803913/c334b471ad8f564ed1b5dd410c95d94544ee0904/2/image-thumb__1594613__product_listing/5941e37dccc9b0172ac2ab7c266c1cd794cb547f.jpg",
-      "max": 2
+      "id": 378,
+      "title": "Ender 5 Plus 3D Printer",
+      "price": 25000,
+      "productLink": "https://crealityegypt.com/products/ender-5-plus-3d-printer-378",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1622620475_Ender-5Plus_1024x1024-600x600.jpg",
+      "max": 12,
+      "cat_prefix": "fdm",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
     },
     {
-      "id": 17,
-      "title": "Regular Fit football shirt",
-      "price": "449.00",
-      "cat_prefix": "sport",
-      "img": "https://eg.hm.com/assets/styles/HNM/14472541/cb9d35f1480ce5c8b0be39ad7fd35ab9f8004ce0/2/image-thumb__3453052__product_listing/70408034bd9792a93abbc8ad322565337f535e24.jpg",
-      "max": 2
+      "id": 397,
+      "title": "Ender-3 Max Neo",
+      "price": 29000,
+      "productLink": "https://crealityegypt.com/products/ender-3-max-neo-397",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1702508216_ezgif-1-89122f11b3-350x350.jpg",
+      "max": 10,
+      "cat_prefix": "fdm",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 398,
+      "title": "Ender-3 Neo",
+      "price": 23000,
+      "productLink": "https://crealityegypt.com/products/ender-3-neo-398",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1702545146_ezgif-3-adc73ee57f-350x350.jpg",
+      "max": 10,
+      "cat_prefix": "fdm",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 401,
+      "title": "Ender-3 S1",
+      "price": 24000,
+      "productLink": "https://crealityegypt.com/products/ender-3-s1-401",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703009448_ezgif-1-c15206cfed-350x350.jpg",
+      "max": 10,
+      "cat_prefix": "fdm",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 399,
+      "title": "Ender-3 S1 Plus",
+      "price": 32000,
+      "productLink": "https://crealityegypt.com/products/ender-3-s1-plus-399",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1702546690_ezgif-1-7b580f2839-350x350.jpg",
+      "max": 10,
+      "cat_prefix": "fdm",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 400,
+      "title": "Ender-3 S1 Pro",
+      "price": 27000,
+      "productLink": "https://crealityegypt.com/products/ender-3-s1-pro-400",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703008320_ezgif-2-89d4973962-350x350.jpg",
+      "max": 10,
+      "cat_prefix": "fdm",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 375,
+      "title": "Ender-3 V2 3D Printer",
+      "price": 20000,
+      "oldPrice": 24000,
+      "productLink": "https://crealityegypt.com/products/ender-3-v2-3d-printer-375",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1622574439_ender-3-V2-01_1024x1024-600x600.png",
+      "max": 10,
+      "cat_prefix": "fdm",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 396,
+      "title": "Ender-3 V2 Neo",
+      "productLink": "https://crealityegypt.com/products/ender-3-v2-neo-396",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1702507394_ezgif-1-5a934c5ee1-350x350.jpg",
+      "max": 10,
+      "cat_prefix": "fdm",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 393,
+      "title": "Ender-3 V3 KE",
+      "price": 29000,
+      "productLink": "https://crealityegypt.com/products/ender-3-v3-ke-393",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1702498515_ezgif-3-32b0bdfcdf-350x350.jpg",
+      "max": 10,
+      "cat_prefix": "fdm",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 394,
+      "title": "Ender-3 V3 SE",
+      "price": 26000,
+      "productLink": "https://crealityegypt.com/products/ender-3-v3-se-394",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1702503706_ezgif-3-2391dcfc63-350x350.jpg",
+      "max": 10,
+      "cat_prefix": "fdm",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 395,
+      "title": "Ender-5 S1",
+      "price": 38500,
+      "productLink": "https://crealityegypt.com/products/ender-5-s1-395",
+      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1702505298_ezgif-3-eb6931e7d2-350x350.jpg",
+      "max": 10,
+      "cat_prefix": "fdm",
+      "brand": "creality",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 88138,
+      "title": "Anycubic Kobra 2 Plus 3D printer Egypt",
+      "price": 38500,
+      "oldPrice": 40000,
+      "productLink": "https://anycubicegypt.com/product/anycubic-kobra-2-plus-3d-printer-egypt/",
+      "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/KobraPlus_5_1800x1800-247x296.webp",
+      "max": 10,
+      "cat_prefix": "fdm",
+      "brand": "anycubic",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 88120,
+      "title": "Anycubic Kobra Max 3D Printer Egypt",
+      "price": 41500,
+      "oldPrice": 45000,
+      "productLink": "https://anycubicegypt.com/product/anycubic-kobra-max-3d-printer-egypt/",
+      "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/KobraMax-All3dp_540x-247x296.webp",
+      "max": 10,
+      "cat_prefix": "fdm",
+      "brand": "anycubic",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 88203,
+      "title": "Anycubic Wash & Cure 3 Plus Egypt",
+      "price": 20000,
+      "oldPrice": 25000,
+      "productLink": "https://anycubicegypt.com/product/anycubic-wash-cure-3-plus-egypt/",
+      "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/Wash_Cure3Plus_1_1800x1800-247x296.webp",
+      "max": 10,
+      "cat_prefix": "wash",
+      "brand": "anycubic",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 88136,
+      "title": "Anycubic Kobra Neo 3D printer Egypt",
+      "price": 20000,
+      "oldPrice": 22500,
+      "productLink": "https://anycubicegypt.com/product/anycubic-kobra-neo-3d-printer-egypt/",
+      "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/Kobra2Neo_1_5f0bab06-36dd-4fb1-ba8c-6369d990c606_1800x1800-247x296.webp",
+      "max": 10,
+      "cat_prefix": "fdm",
+      "brand": "anycubic",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 88195,
+      "title": "Anycubic Mono X2 3D printer Egypt",
+      "price": 50000,
+      "oldPrice": 57000,
+      "productLink": "https://anycubicegypt.com/product/anycubic-mono-x2-3d-printer-egypt/",
+      "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/PhotonMonoX2_1_1800x1800-247x296.webp",
+      "max": 10,
+      "cat_prefix": "resin",
+      "brand": "anycubic",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 88137,
+      "title": "Anycubic Kobra Plus 3D printer Egypt",
+      "price": 34000,
+      "oldPrice": 37000,
+      "productLink": "https://anycubicegypt.com/product/anycubic-kobra-plus-3d-printer-egypt/",
+      "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/KobraPlus_5_1800x1800-247x296.webp",
+      "max": 10,
+      "cat_prefix": "fdm",
+      "brand": "anycubic",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 88196,
+      "title": "Anycubic Photon M3 3D Printer Egypt",
+      "price": 35000,
+      "oldPrice": 40000,
+      "productLink": "https://anycubicegypt.com/product/anycubic-photon-m3-3d-printer-egypt/",
+      "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/AnycubicPhotonM3_6_540x-247x296.webp",
+      "max": 10,
+      "cat_prefix": "resin",
+      "brand": "anycubic",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 88207,
+      "title": "Anycubic Photon M3 Max 3D printer Egypt",
+      "productLink": "https://anycubicegypt.com/product/anycubic-photon-m3-max-3d-printer-egypt/",
+      "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/PhotonM3Max-All3dp_1800x1800-247x296.webp",
+      "max": 10,
+      "cat_prefix": "resin",
+      "brand": "anycubic",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 88141,
+      "title": "Anycubic Kobra 2 3D printer Egypt",
+      "price": 27000,
+      "oldPrice": 32000,
+      "productLink": "https://anycubicegypt.com/product/anycubic-kobra-2-3d-printer-egypt/",
+      "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/Kobra_1_7dc7d3e0-bb0e-4f51-9a23-ab39eab1e011_1800x1800-247x296.webp",
+      "max": 10,
+      "cat_prefix": "fdm",
+      "brand": "anycubic",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 88208,
+      "title": "Anycubic Photon M3 Premium Egypt",
+      "price": 70000,
+      "oldPrice": 80000,
+      "productLink": "https://anycubicegypt.com/product/anycubic-photon-m3-premium-egypt/",
+      "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/PhotonM3Premium_4_540x-247x296.webp",
+      "max": 10,
+      "cat_prefix": "resin",
+      "brand": "anycubic",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 88139,
+      "title": "Anycubic Kobra 2 Pro 3D printer Egypt",
+      "price": 30000,
+      "oldPrice": 35000,
+      "productLink": "https://anycubicegypt.com/product/anycubic-kobra-2-pro-3d-printer-egypt/",
+      "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/Kobra2Pro_3_540x-247x296.webp",
+      "max": 10,
+      "cat_prefix": "fdm",
+      "brand": "anycubic",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 88140,
+      "title": "Anycubic Kobra 2 Neo 3D printer Egypt",
+      "price": 22000,
+      "oldPrice": 25000,
+      "productLink": "https://anycubicegypt.com/product/anycubic-kobra-2-neo-3d-printer-egypt/",
+      "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/Kobra2Neo_1_5f0bab06-36dd-4fb1-ba8c-6369d990c606_1800x1800-247x296.webp",
+      "max": 10,
+      "cat_prefix": "fdm",
+      "brand": "anycubic",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 88110,
+      "title": "Anycubic Photon Mono M5s 3D Printer Egypt",
+      "price": 70000,
+      "oldPrice": 80000,
+      "productLink": "https://anycubicegypt.com/product/anycubic-photon-mono-m5s-egypt/",
+      "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/PhotonMonoM5s-Gamesradar_1800x1800-247x296.png",
+      "max": 10,
+      "cat_prefix": "resin",
+      "brand": "anycubic",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 88175,
+      "title": "Anycubic Photon Mono X 6Ks 3D printer Egypt",
+      "price": 57000,
+      "oldPrice": 60000,
+      "productLink": "https://anycubicegypt.com/product/anycubic-photon-mono-x-6ks-3d-printer-egypt/",
+      "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/anycubic-photon-mono-x-6ks-2_4abd6aa8-ecb3-49a3-8c9f-090ade2940c5_1800x1800-247x296.webp",
+      "max": 10,
+      "cat_prefix": "resin",
+      "brand": "anycubic",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 88114,
+      "title": "Anycubic Kobra 2 Max EGYPT",
+      "price": 47000,
+      "oldPrice": 50000,
+      "productLink": "https://anycubicegypt.com/product/anycubic-kobra-2-max-egypt/",
+      "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/Kobra2Max_3_540x-247x296.webp",
+      "max": 10,
+      "cat_prefix": "fdm",
+      "brand": "anycubic",
+      "availability": "available",
+      "sku": 123
+    },
+    {
+      "id": 88178,
+      "title": "Anycubic Mono X 6K 3D printer Egypt",
+      "price": 50000,
+      "oldPrice": 55000,
+      "productLink": "https://anycubicegypt.com/product/anycubic-mono-x-6k-3d-printer-egypt/",
+      "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/PhotonMonoX6K_1_1800x1800-247x296.webp",
+      "max": 10,
+      "cat_prefix": "resin",
+      "brand": "anycubic",
+      "availability": "available",
+      "sku": 123
     }
   ],
   "wishlist": [
     {
       "userId": 1,
-      "productId": 9,
+      "productId": 88178,
       "id": 2
-    },
-    {
-      "userId": 1,
-      "productId": 4,
-      "id": 3
-    },
-    {
-      "userId": 1,
-      "productId": 1,
-      "id": 6
-    },
-    {
-      "userId": 1,
-      "productId": 3,
-      "id": 7
     }
   ],
   "emails": [
@@ -207,25 +602,42 @@
   ],
   "bestseller": [
     {
-      "id": 385,
-      "title": "LD-002H 3D Printer (WOW DEAL!)",
-      "price": "24,500.00",
-      "oldPrice": "27,999.00",
-      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/data/LD-002H-主图-1-英.jpg"
+      "productId": 88178,
+      "id": 1
     },
     {
-      "id": 385,
-      "title": "LD-002H 3D Printer (WOW DEAL!)",
-      "price": "24,500.00",
-      "oldPrice": "27,999.00",
-      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/data/LD-002H-主图-1-英.jpg"
+      "productId": 88178,
+      "id": 3
     },
     {
-      "id": 385,
-      "title": "LD-002H 3D Printer (WOW DEAL!)",
-      "price": "24,500.00",
-      "oldPrice": "27,999.00",
-      "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/data/LD-002H-主图-1-英.jpg"
+      "productId": 88175,
+      "id": 2
+    }
+  ],
+  "carousel": [
+    {
+      "id": 1,
+      "img": "https://cdn.shopify.com/s/files/1/0019/9213/2476/products/Creality-CR-6-SE-3D-Printer-01_1024x1024.jpg?v=1603110134",
+      "title": "Creality CR-6 SE",
+      "subtitle": "3D Printer",
+      "price": 499.99,
+      "productId": 88178
+    },
+    {
+      "id": 2,
+      "img": "https://cdn.shopify.com/s/files/1/0019/9213/2476/products/Creality-CR-6-SE-3D-Printer-01_1024x1024.jpg?v=1603110134",
+      "title": "Creality CR-6 SE",
+      "subtitle": "3D Printer",
+      "price": 499.99,
+      "productId": 88178
+    },
+    {
+      "id": 3,
+      "img": "https://cdn.shopify.com/s/files/1/0019/9213/2476/products/Creality-CR-6-SE-3D-Printer-01_1024x1024.jpg?v=1603110134",
+      "title": "Creality CR-6 SE",
+      "subtitle": "3D Printer",
+      "price": 499.99,
+      "productId": 88178
     }
   ]
 }
