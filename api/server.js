@@ -1,6 +1,8 @@
 // Import the necessary modules
 const jsonServer = require("json-server");
 const fs = require("fs");
+const jsonServerAuth = require("json-server-auth");
+
 const server = jsonServer.create();
 const middlewares = jsonServer.defaults();
 
@@ -22,6 +24,10 @@ fs.readFile("db.json", "utf8", (err, data) => {
       "/products/:resource/:id/show": "/:resource/:id",
     })
   );
+
+  // Apply json-server-auth middleware
+  server.db = db; // Needed for json-server-auth
+  server.use(jsonServerAuth);
 
   // Set up the router with the parsed JSON data
   const router = jsonServer.router(db);

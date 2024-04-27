@@ -590,14 +590,68 @@
   "wishlist": [
     {
       "userId": 1,
-      "productId": 88178,
-      "id": 2
-    }
-  ],
-  "emails": [
+      "productId": 88195,
+      "id": 3
+    },
     {
-      "id": 1,
-      "email": "geek.abdoo@gmail.com"
+      "userId": 1,
+      "productId": 414,
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "productId": 415,
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "productId": 416,
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "productId": 417,
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "productId": 411,
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "productId": 410,
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "productId": 380,
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "productId": 379,
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "productId": 381,
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "productId": 88137,
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "productId": 88196,
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "productId": 88175,
+      "id": 17
     }
   ],
   "bestseller": [
@@ -675,6 +729,15 @@
     {
       "id": 8,
       "productId": 88139
+    }
+  ],
+  "users": [
+    {
+      "email": "geek.abdoo@gmail.com",
+      "password": "$2a$10$6WkRAOTniHbJ94Q.EpF.KueVtDdgrbBMzjmHkEH5ShyOy7u.Xuv6m",
+      "firstName": "Abdo",
+      "lastName": "elsayed",
+      "id": 1
     }
   ]
 }
