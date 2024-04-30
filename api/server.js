@@ -1,5 +1,6 @@
 const express = require("express");
 const admin = require("firebase-admin");
+const cors = require("cors");
 const serviceAccount = require("./serviceAccountKey.json");
 
 admin.initializeApp({
@@ -9,6 +10,7 @@ admin.initializeApp({
 
 const db = admin.database();
 const app = express();
+app.use(cors());
 app.use(express.json());
 
 const port = process.env.PORT || 3000;
