@@ -47,11 +47,14 @@
       "oldPrice": 36000,
       "productLink": "https://crealityegypt.com/products/ld-006-417",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703097095_ezgif-1-9968ef65a6-350x350.jpg",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "resin",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 416,
@@ -60,11 +63,14 @@
       "oldPrice": 36000,
       "productLink": "https://crealityegypt.com/products/halot-sky-416",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703096440_ezgif-1-8380c100a2-350x350.jpg",
-      "max": 15,
+      "stock": 15,
       "cat_prefix": "resin",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 415,
@@ -73,11 +79,14 @@
       "oldPrice": 36900,
       "productLink": "https://crealityegypt.com/products/halot-ray-415",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703095614_ezgif-4-3e9bccfaaf-350x350.jpg",
-      "max": 5,
+      "stock": 5,
       "cat_prefix": "resin",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 414,
@@ -86,11 +95,14 @@
       "oldPrice": 32400,
       "productLink": "https://crealityegypt.com/products/halot-lite-414",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703094928_ezgif-4-1f6161fe4f-350x350.jpg",
-      "max": 8,
+      "stock": 8,
       "cat_prefix": "resin",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 413,
@@ -99,11 +111,14 @@
       "oldPrice": 28800,
       "productLink": "https://crealityegypt.com/products/halot-one-pro-413",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703093922_ezgif-4-7de89f5c47-350x350.jpg",
-      "max": 12,
+      "stock": 12,
       "cat_prefix": "resin",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 412,
@@ -112,11 +127,14 @@
       "oldPrice": 35100,
       "productLink": "https://crealityegypt.com/products/halot-one-plus-412",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703072137_ezgif-4-236c9fafe2-350x350.jpg",
-      "max": 3,
+      "stock": 3,
       "cat_prefix": "resin",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 411,
@@ -125,11 +143,14 @@
       "oldPrice": 40500,
       "productLink": "https://crealityegypt.com/products/halot-mage-411",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703071519_ezgif-4-b627b62c61-350x350.jpg",
-      "max": 18,
+      "stock": 18,
       "cat_prefix": "resin",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 410,
@@ -138,11 +159,14 @@
       "oldPrice": 49500,
       "productLink": "https://crealityegypt.com/products/halot-mage-pro-410",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703023140_ezgif-3-3ba9b0ade3-350x350.jpg",
-      "max": 6,
+      "stock": 6,
       "cat_prefix": "resin",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 391,
@@ -151,11 +175,14 @@
       "oldPrice": 33317.1,
       "productLink": "https://crealityegypt.com/products/cr-10-smart-3d-printer-391",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1623883995_CR-10Smart3DPrinter_dcf0f400-1014-4033-9e29-84655a97f47d_1024x1024-350x350.png",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "fdm",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 389,
@@ -164,11 +191,14 @@
       "oldPrice": 13500,
       "productLink": "https://crealityegypt.com/products/uw-01-washing-curing-machine-389",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1622625513_UW-01WashingCuringMachine_2_1024x1024-350x350.jpg",
-      "max": 15,
+      "stock": 15,
       "cat_prefix": "wash",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 388,
@@ -177,11 +207,14 @@
       "oldPrice": 1100,
       "productLink": "https://crealityegypt.com/products/500ml-5kg-3d-printer-resin-uv-resin-for-lcd-3d-printing-388",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1622624575_UVResin-3_1024x1024-350x350.jpg",
-      "max": 5,
+      "stock": 5,
       "cat_prefix": "material",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 387,
@@ -190,11 +223,14 @@
       "oldPrice": 1800,
       "productLink": "https://crealityegypt.com/products/1kg-3d-printer-resin-uv-resin-for-lcd-3d-printing-387",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1622624575_UVResin-3_1024x1024-350x350.jpg",
-      "max": 8,
+      "stock": 8,
       "cat_prefix": "material",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 385,
@@ -203,11 +239,14 @@
       "oldPrice": 22050,
       "productLink": "https://crealityegypt.com/products/ld-002h-3d-printer-wow-deal--385",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1624112196_200326579_797851390920887_6273961351294706137_n-350x350.jpg",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "resin",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 381,
@@ -216,11 +255,14 @@
       "oldPrice": 31000,
       "productLink": "https://crealityegypt.com/products/cr-10-v3-e3d-direct-drive-extruder-3d-printer-381",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1622622160_cr-10-v2_1024x1024-350x350.jpg",
-      "max": 3,
+      "stock": 3,
       "cat_prefix": "fdm",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 380,
@@ -229,11 +271,14 @@
       "oldPrice": 30000,
       "productLink": "https://crealityegypt.com/products/creality-cr-10-v2-3d-printer-380",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1622621802_CrealityCR-10V23DPrinter_1024x1024-350x350.jpg",
-      "max": 6,
+      "stock": 6,
       "cat_prefix": "fdm",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 379,
@@ -242,11 +287,14 @@
       "oldPrice": 25200,
       "productLink": "https://crealityegypt.com/products/ender-6-corexy-379",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1622621414_Ender61_1024x1024-350x350.jpg",
-      "max": 12,
+      "stock": 12,
       "cat_prefix": "fdm",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 378,
@@ -254,11 +302,14 @@
       "price": 25000,
       "productLink": "https://crealityegypt.com/products/ender-5-plus-3d-printer-378",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1622620475_Ender-5Plus_1024x1024-600x600.jpg",
-      "max": 12,
+      "stock": 12,
       "cat_prefix": "fdm",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 397,
@@ -266,11 +317,14 @@
       "price": 29000,
       "productLink": "https://crealityegypt.com/products/ender-3-max-neo-397",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1702508216_ezgif-1-89122f11b3-350x350.jpg",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "fdm",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 398,
@@ -278,11 +332,14 @@
       "price": 23000,
       "productLink": "https://crealityegypt.com/products/ender-3-neo-398",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1702545146_ezgif-3-adc73ee57f-350x350.jpg",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "fdm",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 401,
@@ -290,11 +347,14 @@
       "price": 24000,
       "productLink": "https://crealityegypt.com/products/ender-3-s1-401",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703009448_ezgif-1-c15206cfed-350x350.jpg",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "fdm",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 399,
@@ -302,11 +362,14 @@
       "price": 32000,
       "productLink": "https://crealityegypt.com/products/ender-3-s1-plus-399",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1702546690_ezgif-1-7b580f2839-350x350.jpg",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "fdm",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 400,
@@ -314,11 +377,14 @@
       "price": 27000,
       "productLink": "https://crealityegypt.com/products/ender-3-s1-pro-400",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1703008320_ezgif-2-89d4973962-350x350.jpg",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "fdm",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 375,
@@ -327,22 +393,28 @@
       "oldPrice": 24000,
       "productLink": "https://crealityegypt.com/products/ender-3-v2-3d-printer-375",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1622574439_ender-3-V2-01_1024x1024-600x600.png",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "fdm",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 396,
       "title": "Ender-3 V2 Neo",
       "productLink": "https://crealityegypt.com/products/ender-3-v2-neo-396",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1702507394_ezgif-1-5a934c5ee1-350x350.jpg",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "fdm",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 393,
@@ -350,11 +422,14 @@
       "price": 29000,
       "productLink": "https://crealityegypt.com/products/ender-3-v3-ke-393",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1702498515_ezgif-3-32b0bdfcdf-350x350.jpg",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "fdm",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 394,
@@ -362,11 +437,14 @@
       "price": 26000,
       "productLink": "https://crealityegypt.com/products/ender-3-v3-se-394",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1702503706_ezgif-3-2391dcfc63-350x350.jpg",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "fdm",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 395,
@@ -374,11 +452,14 @@
       "price": 38500,
       "productLink": "https://crealityegypt.com/products/ender-5-s1-395",
       "img": "https://crealityegypt.com/ecdata/stores/OWEIQG1011/image/cache/data/products/1702505298_ezgif-3-eb6931e7d2-350x350.jpg",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "fdm",
       "brand": "creality",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 88138,
@@ -387,11 +468,14 @@
       "oldPrice": 40000,
       "productLink": "https://anycubicegypt.com/product/anycubic-kobra-2-plus-3d-printer-egypt/",
       "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/KobraPlus_5_1800x1800-247x296.webp",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "fdm",
       "brand": "anycubic",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 88120,
@@ -400,11 +484,14 @@
       "oldPrice": 45000,
       "productLink": "https://anycubicegypt.com/product/anycubic-kobra-max-3d-printer-egypt/",
       "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/KobraMax-All3dp_540x-247x296.webp",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "fdm",
       "brand": "anycubic",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 88203,
@@ -413,11 +500,14 @@
       "oldPrice": 25000,
       "productLink": "https://anycubicegypt.com/product/anycubic-wash-cure-3-plus-egypt/",
       "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/Wash_Cure3Plus_1_1800x1800-247x296.webp",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "wash",
       "brand": "anycubic",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 88136,
@@ -426,11 +516,14 @@
       "oldPrice": 22500,
       "productLink": "https://anycubicegypt.com/product/anycubic-kobra-neo-3d-printer-egypt/",
       "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/Kobra2Neo_1_5f0bab06-36dd-4fb1-ba8c-6369d990c606_1800x1800-247x296.webp",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "fdm",
       "brand": "anycubic",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 88195,
@@ -439,11 +532,14 @@
       "oldPrice": 57000,
       "productLink": "https://anycubicegypt.com/product/anycubic-mono-x2-3d-printer-egypt/",
       "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/PhotonMonoX2_1_1800x1800-247x296.webp",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "resin",
       "brand": "anycubic",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 88137,
@@ -452,11 +548,14 @@
       "oldPrice": 37000,
       "productLink": "https://anycubicegypt.com/product/anycubic-kobra-plus-3d-printer-egypt/",
       "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/KobraPlus_5_1800x1800-247x296.webp",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "fdm",
       "brand": "anycubic",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 88196,
@@ -465,22 +564,28 @@
       "oldPrice": 40000,
       "productLink": "https://anycubicegypt.com/product/anycubic-photon-m3-3d-printer-egypt/",
       "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/AnycubicPhotonM3_6_540x-247x296.webp",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "resin",
       "brand": "anycubic",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 88207,
       "title": "Anycubic Photon M3 Max  ",
       "productLink": "https://anycubicegypt.com/product/anycubic-photon-m3-max-3d-printer-egypt/",
       "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/PhotonM3Max-All3dp_1800x1800-247x296.webp",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "resin",
       "brand": "anycubic",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 88141,
@@ -489,11 +594,14 @@
       "oldPrice": 32000,
       "productLink": "https://anycubicegypt.com/product/anycubic-kobra-2-3d-printer-egypt/",
       "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/Kobra_1_7dc7d3e0-bb0e-4f51-9a23-ab39eab1e011_1800x1800-247x296.webp",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "fdm",
       "brand": "anycubic",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 88208,
@@ -502,11 +610,14 @@
       "oldPrice": 80000,
       "productLink": "https://anycubicegypt.com/product/anycubic-photon-m3-premium-egypt/",
       "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/PhotonM3Premium_4_540x-247x296.webp",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "resin",
       "brand": "anycubic",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 88139,
@@ -515,11 +626,14 @@
       "oldPrice": 35000,
       "productLink": "https://anycubicegypt.com/product/anycubic-kobra-2-pro-3d-printer-egypt/",
       "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/Kobra2Pro_3_540x-247x296.webp",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "fdm",
       "brand": "anycubic",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 88140,
@@ -528,11 +642,14 @@
       "oldPrice": 25000,
       "productLink": "https://anycubicegypt.com/product/anycubic-kobra-2-neo-3d-printer-egypt/",
       "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/Kobra2Neo_1_5f0bab06-36dd-4fb1-ba8c-6369d990c606_1800x1800-247x296.webp",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "fdm",
       "brand": "anycubic",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 88110,
@@ -541,11 +658,14 @@
       "oldPrice": 80000,
       "productLink": "https://anycubicegypt.com/product/anycubic-photon-mono-m5s-egypt/",
       "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/PhotonMonoM5s-Gamesradar_1800x1800-247x296.png",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "resin",
       "brand": "anycubic",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 88175,
@@ -554,11 +674,14 @@
       "oldPrice": 60000,
       "productLink": "https://anycubicegypt.com/product/anycubic-photon-mono-x-6ks-3d-printer-egypt/",
       "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/anycubic-photon-mono-x-6ks-2_4abd6aa8-ecb3-49a3-8c9f-090ade2940c5_1800x1800-247x296.webp",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "resin",
       "brand": "anycubic",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 88114,
@@ -567,11 +690,14 @@
       "oldPrice": 50000,
       "productLink": "https://anycubicegypt.com/product/anycubic-kobra-2-max-egypt/",
       "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/Kobra2Max_3_540x-247x296.webp",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "fdm",
       "brand": "anycubic",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     },
     {
       "id": 88178,
@@ -580,11 +706,14 @@
       "oldPrice": 55000,
       "productLink": "https://anycubicegypt.com/product/anycubic-mono-x-6k-3d-printer-egypt/",
       "img": "https://anycubicegypt.com/wp-content/uploads/2024/01/PhotonMonoX6K_1_1800x1800-247x296.webp",
-      "max": 10,
+      "stock": 10,
       "cat_prefix": "resin",
       "brand": "anycubic",
       "availability": "available",
-      "sku": 123
+      "sku": 123,
+      "rating": 4.5,
+      "description": "test",
+      "images": []
     }
   ],
   "wishlist": [
@@ -595,38 +724,13 @@
     },
     {
       "userId": 1,
-      "productId": 414,
-      "id": 6
-    },
-    {
-      "userId": 1,
       "productId": 415,
       "id": 7
     },
     {
       "userId": 1,
-      "productId": 416,
-      "id": 8
-    },
-    {
-      "userId": 1,
-      "productId": 417,
-      "id": 9
-    },
-    {
-      "userId": 1,
-      "productId": 411,
-      "id": 10
-    },
-    {
-      "userId": 1,
       "productId": 410,
       "id": 11
-    },
-    {
-      "userId": 1,
-      "productId": 380,
-      "id": 12
     },
     {
       "userId": 1,
